@@ -46,3 +46,8 @@ img {
 	float: right;
 	margin: 15px;
 }
+
+li {
+	list-style-image: url('icon.png');
+	font-size: 20px;
+}
