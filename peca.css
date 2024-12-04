@@ -36,3 +36,7 @@ td {
 	font-weight: bold;
 	padding: 20px;
 }
+
+img {
+	border: black 2px solid;
+}
