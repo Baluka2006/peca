@@ -15,6 +15,7 @@ body {
 h1 {
 	color: #1c1815;
 	font-size: 30px;
+	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
 }
@@ -39,6 +40,8 @@ td {
 
 img {
 	border: black 2px solid;
+	border-radius: 20%;
+	box-shadow: #1c1815 5px 5px 5px;
 }
 
 #logo {
@@ -50,4 +53,9 @@ img {
 li {
 	list-style-image: url('icon.png');
 	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #38271d;
 }
