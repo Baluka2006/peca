@@ -28,7 +28,9 @@ h2 {
 
 table {
 	width: 80%;
-	display: block;
 	margin: auto;
-	padding: 0px;
+}
+
+td {
+	text-align: center;
 }
