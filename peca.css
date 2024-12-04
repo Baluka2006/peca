@@ -33,4 +33,6 @@ table {
 
 td {
 	text-align: center;
+	font-weight: bold;
+	padding: 20px;
 }
