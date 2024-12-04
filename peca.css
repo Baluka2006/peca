@@ -40,3 +40,9 @@ td {
 img {
 	border: black 2px solid;
 }
+
+#logo {
+	width: 40%;
+	float: right;
+	margin: 15px;
+}
